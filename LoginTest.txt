@@ -3,3 +3,4 @@ public static void Git learning(){
 System.out.println("This is my first file")
 
 }
+int i=10;
